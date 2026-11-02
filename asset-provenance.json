@@ -708,11 +708,25 @@
     "portfolio-12"
   ],
   "generation_method": "built-in image_gen",
-  "invariants": "Preserve building geometry, openings, roof form, porch and source materials. Only Home, Portfolio and Contact enhanced. Floor plan images are byte-for-byte originals.",
+  "invariants": "Preserve building geometry, openings, roof form, porch and source materials. Original files retained. Home, Portfolio, Contact enhanced initially; Floor Plans portrait re-renders authorized in the November 2 revision.",
   "prompt_set": {
     "exteriors": "Re-render this exact home as a photorealistic professional architectural exterior photograph. Preserve all building geometry, roof form, dormers, porches, columns, window and door positions, garage, materials and colors. Change only rendering realism: natural material textures, credible reflections, contact shadows, softly varied grass and realistic Louisiana trees, refined low landscaping, soft natural afternoon lighting. No text, cars or people.",
     "home": "Turn the exact raised cottage linework into a realistic exterior photo. Preserve three dormers, chimney, hip roof, wraparound porch and central steps. Pale gray siding, charcoal metal roof and natural Louisiana landscaping.",
     "kitchen": "Reconstruct the original kitchen as a crisp high-resolution photograph, retaining cabinetry, rolling ladder, island, brass tap, floor, stools, range and pendant lights.",
     "logo": "Forest-green CJ monogram, geometric thin architectural strokes, incomplete drafting-sheet border, fine dimension ticks and sparse partial floor-plan geometry. Transparent background. No additional text."
+  },
+  "portrait_portfolio_revision": {
+    "date": "2026-11-02",
+    "count": 12,
+    "method": "built-in image_gen",
+    "prompt": "Use case: architectural style-transfer and reframing. Edit target: supplied original 3D home rendering. Create ONE photorealistic PORTRAIT 4:5 architectural exterior image for a tall portfolio card. Preserve exactly this home's complete architecture: roof shapes, dormers, floor count, wings, porch, columns, windows, doors and construction materials. Reframe as needed with a gentle front three-quarter camera view or slightly more distance so the entire home fits comfortably inside the narrow vertical frame, with breathing room on left and right. Do NOT crop off any wing, roof or porch. Balance a modest foreground garden with Louisiana trees and sky; don't devote most of the image to empty lawn. Warm natural afternoon light, detailed authentic materials, nuanced shadows and glass reflections, architectural editorial photography. Straight verticals. No text, watermark, people, cars, invented additions, or collage. Portrait 1024 x 1280 composition.\n"
+  },
+  "portrait_plan_revision": {
+    "date": "2026-11-02",
+    "count": 60,
+    "method": "built-in image_gen",
+    "brief": "Re-render all Floor Plans homes for a 4:5 portrait card, preserving each original house and fitting the complete building inside the vertical composition.",
+    "originals": "All original plan image files are retained. Cards now display separate portrait WebP visualizations.",
+    "prompt": "Use case: style-transfer and architectural reframing. Edit target: the supplied existing home rendering. Produce a PHOTOREALISTIC PORTRAIT architectural exterior photograph, exact output composition 4:5 vertical, suitable for a tall website home-plan card. Preserve the COMPLETE original house: same roof form, floor count, dormers, windows, doors, porches, columns, garage, construction materials and colors. Do not redesign, simplify, add or remove architectural features. Reframe the camera as necessary, preferably a gentle front three-quarter view, and pull back enough to fit the ENTIRE home with breathing space on BOTH sides in a portrait composition. The home must be the main focus in the middle 55 percent vertically, with balanced sky above and a modest amount of natural planted foreground below; avoid an empty field of grass dominating the image. Realistic Louisiana trees, natural greenery, authentic material textures, glass reflections and soft afternoon daylight, refined architectural photography, vertical lines straight. No text, people, cars or watermarks. ONE image of this ONE house, not a collage. Portrait 1024 x 1280 composition.\n"
   }
 }

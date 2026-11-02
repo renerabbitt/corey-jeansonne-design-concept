@@ -1,14 +1,15 @@
 # Corey Jeansonne Designs — redesign concept
 
-A responsive, static example website with a forest green, medium gray, and drawing-paper identity. Hosted with GitHub Pages; no build step or server dependencies.
+A responsive, static example website with a forest green, green-gray, and light sage identity. Hosted with GitHub Pages; no build step or server dependencies.
 
 ## Included
 
 - CJ drafting-sheet monogram and a standalone brand direction page.
 - Home, Portfolio, Floor Plans, and Contact views with hash navigation.
-- All 12 portfolio designs enhanced with photorealistic materials and lighting. An accessible native-dialog gallery supports category filtering, previous/next navigation, arrow keys, swipe, and original/enhanced comparison.
+- All 12 portfolio designs re-rendered as photorealistic 4:5 portrait images, with the entire home framed for the vertical gallery. An accessible native-dialog gallery supports category filtering, previous/next navigation, arrow keys, swipe, and original/enhanced comparison.
 - New home visualization based on the original elevation, and a reconstructed contact-page kitchen image.
-- All 60 original floor-plan cards, specifications, and prices. Their image files are unchanged originals. Cards are display-only. Search, bedroom/bathroom/size filters, reset, and progressive loading run locally.
+- All 60 original floor-plan cards, specifications, and prices. The November 2 revision adds a dedicated 4:5 portrait re-render for every home; the original source files remain in assets. Cards are display-only. Search, bedroom/bathroom/size filters, reset, and progressive loading run locally.
+- A 104-pixel desktop logo, 22-pixel studio wordmark, 17-pixel desktop navigation, 18-pixel body copy, and larger plan numbers, prices, and specifications. Featured cards share matching top edges and caption baselines.
 - Responsive layouts for desktop, tablet, narrow folded devices, and wide unfolded devices; safe-area and viewport-segment spacing; reduced-motion support.
 - Demo contact form validates locally and sends/stores nothing.
 
