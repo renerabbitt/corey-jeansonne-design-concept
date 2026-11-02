@@ -1,0 +1,718 @@
+{
+  "source": "https://www.coreyjeansonnedesigns.com/",
+  "downloaded": "2026-11-02",
+  "original_assets": {
+    "home": [
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_be93355063124cbca32e434f9c0bf78a~mv2.jpg/v1/fill/w_147,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8858a8_be93355063124cbca32e434f9c0bf78a~mv2.jpg",
+        "alt": "Landing.jpg",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "980",
+        "height": "1125"
+      },
+      {
+        "sizes": "25px",
+        "srcset": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png 1x, https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png 2x",
+        "id": "img_0_comp-llqud6cl1",
+        "src": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+        "alt": "Facebook",
+        "style": "object-fit:cover",
+        "class": "ZK9snE sFiSiq",
+        "width": "25",
+        "height": "25"
+      }
+    ],
+    "portfolio": [
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg/v1/fill/w_62,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg",
+        "alt": "blueprint.jpeg",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "980",
+        "height": "274"
+      },
+      {
+        "id": "51abd08e-8c53-457e-b905-383e0b5346ef",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "0",
+        "src": "https://static.wixstatic.com/media/8858a8_09c96ff6b4af4d61a98bdebe7b439fcd~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_09c96ff6b4af4d61a98bdebe7b439fcd~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "7e44e895-615c-4f16-be09-c77b61be4dc6",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "1",
+        "src": "https://static.wixstatic.com/media/8858a8_b9ad5282fb504bf7b5e8a6232bac6977~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_b9ad5282fb504bf7b5e8a6232bac6977~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "29283164-5a31-4add-8277-4b360a141be7",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "2",
+        "src": "https://static.wixstatic.com/media/8858a8_68148febceec426aaeba233daac9c340~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_68148febceec426aaeba233daac9c340~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "ea63094c-28f9-4211-b423-e811c5e44d01",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "3",
+        "src": "https://static.wixstatic.com/media/8858a8_e3a108b93aea4075b0049452c207012d~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_e3a108b93aea4075b0049452c207012d~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "17d3db5e-31e8-4d81-a36e-83b2f4642328",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "4",
+        "src": "https://static.wixstatic.com/media/8858a8_426992f29a484129865ee61270d1d8e0~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_426992f29a484129865ee61270d1d8e0~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "8e3f8c8f-4ef7-4294-90bc-120322b9722f",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "5",
+        "src": "https://static.wixstatic.com/media/8858a8_cafc76ddf0aa459cb3cca3599335923c~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_cafc76ddf0aa459cb3cca3599335923c~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "ce525fb2-d4cc-4891-864d-8d7fd61e33db",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "6",
+        "src": "https://static.wixstatic.com/media/8858a8_4192041b7b9f4e65bd9a6e3fcaed7bc1~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_4192041b7b9f4e65bd9a6e3fcaed7bc1~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "7f57892c-bbe8-4bc2-b6d9-82b2daee01d2",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "7",
+        "src": "https://static.wixstatic.com/media/8858a8_f9af95b907f34a809ec6f6bad218c9e5~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_f9af95b907f34a809ec6f6bad218c9e5~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "66ee28d1-08d5-4f5d-a7f6-da0cf99be246",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "8",
+        "src": "https://static.wixstatic.com/media/8858a8_1605a25ac33945458e876141955aeeaa~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_1605a25ac33945458e876141955aeeaa~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "457ac6d1-ce4d-4d77-958f-3caf38dc9275",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "9",
+        "src": "https://static.wixstatic.com/media/8858a8_11cfeda01d2e4446bd4da53815d044f7~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_11cfeda01d2e4446bd4da53815d044f7~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "27d9ceb9-9a79-41e1-8834-d115935e3ba1",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "10",
+        "src": "https://static.wixstatic.com/media/8858a8_156b6e4839594a9b9e6b1752cd78b8e0~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_156b6e4839594a9b9e6b1752cd78b8e0~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "id": "5cfa02b1-02ed-408e-90a0-87a9abf96e41",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "11",
+        "src": "https://static.wixstatic.com/media/8858a8_3cc4b74c4d534bf8b505880570510344~mv2.jpg/v1/fit/w_960,h_960,q_90,enc_avif,quality_auto/8858a8_3cc4b74c4d534bf8b505880570510344~mv2.jpg",
+        "alt": "",
+        "loading": "lazy",
+        "style": "width:100%;height:100%"
+      },
+      {
+        "sizes": "25px",
+        "srcset": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 1x, https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 2x",
+        "id": "img_0_comp-lpr79e6j1",
+        "src": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png",
+        "alt": "Facebook",
+        "style": "object-fit:cover",
+        "class": "ZK9snE sFiSiq",
+        "width": "25",
+        "height": "25"
+      }
+    ],
+    "contact": [
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg/v1/fill/w_62,h_41,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg",
+        "alt": "blueprint.jpeg",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "980",
+        "height": "276"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_0022613468354014800eaef3c6e89af4~mv2.jpeg/v1/fill/w_123,h_158,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8858a8_0022613468354014800eaef3c6e89af4~mv2.jpeg",
+        "alt": "kitchen.jpeg",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "490",
+        "height": "967"
+      },
+      {
+        "sizes": "25px",
+        "srcset": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 1x, https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 2x",
+        "id": "img_0_comp-lq10ja806",
+        "src": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png",
+        "alt": "Facebook",
+        "style": "object-fit:cover",
+        "class": "ZK9snE sFiSiq",
+        "width": "25",
+        "height": "25"
+      }
+    ],
+    "plans": [
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg/v1/fill/w_84,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8858a8_84242d7a1adc45739d9446d396e69e8a~mv2.jpeg",
+        "alt": "blueprint.jpeg",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "980",
+        "height": "374"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_a82e48bca474408397e6748e312a91ac~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "ANDREW SIMMS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_730dc566c7c94241912afc72275a66ba~mv2.jpg/v1/fill/w_91,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Aleta Jacobs",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_0e8413c0eaf34f42b38d5878dc4fddec~mv2.jpg/v1/fill/w_85,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Alex & Danielle Coleman",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_918d6fa552f44a40a91c8d56f3e8cc74~mv2.jpg/v1/fill/w_92,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Ann Roszell",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_eb474dfe514f416cb23d6de777c80109~mv2.jpg/v1/fill/w_92,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BARNHART",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_46e8335f5dbc44d1b5e33306adc74bcd~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BARRETT WHITE HOUSE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_860eabb479374a3f9d9b5e17194ca83a~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BARRY AND ANGIE BRANTON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_4e0d5f7fd51a411c820fcd7969645fe2~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BART & LAUREN WILEY",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_a882c660b63d4475bff79171f131b4b3~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BART & TIFFANY ALLMAN",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_d5a4b14e8f1f488bb4918943d64c40ce~mv2.jpg/v1/fill/w_92,h_42,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BEN JAMES",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_06544f6f9c7742838e0228d97943da97~mv2.jpg/v1/fill/w_92,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BJ & LINDSEY CRAIN",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_28b4e835410e4a26b5cb4a7b49d36d0b~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "BRAD & MELISSA BORDELON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_4ea116e1ac3d4e2fa9c4b6a5840d7407~mv2.jpg/v1/fill/w_85,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Beau & Mamie Gandy",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_9fc33a29d1204b828ab65e4cdfb3fc59~mv2.jpg/v1/fill/w_92,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Ben & Kim Bryan",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_c1f60ffd17044c6c8c3a9435b4e0edd6~mv2.jpg/v1/fill/w_92,h_42,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Bill Vance",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_62e1ceed4ee546b9af13c1b3e7361a24~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Bobbie & Denice  Hamilton",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_6a3c64fdd71e47618f985b25744f5bed~mv2.jpg/v1/fill/w_70,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Bradley & Samantha Stokes",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_93c2d75a9d1a4a61a517ad0262e49777~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Brandon Dauzat",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_582fba59f28249f68774f6047f090e71~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Brouillette",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_fea86879a1a64bed977f08afe266c629~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CALEB COUVILLON LAKES DISTRICT",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_075898a03462401bbc1095f2b4586604~mv2.jpg/v1/fill/w_92,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CARMOUCHE 2021",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_50a67f9455de4baa83572ef0b9a05eeb~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CARY & RENEE HODNETT",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_d37fe654c2e54bacaa44481809885dd0~mv2.jpg/v1/fill/w_92,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CASEY & LEAH MORACE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_b7399b26a2cb4f05b9001799d365995b~mv2.jpg/v1/fill/w_92,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CASEY AND BRIDGETT SIMMONS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_ce47e0f1124044ff8ffd2436e77730ca~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CHRIS & CHANDA BENNING",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_572201926c4946bcb902cb214bd69960~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CHRIS & LORI HAYNES",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_95991efab59f43ceb216c64f26a1cd64~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CLAYTON & MAGGIE MCWATERS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_ae3bf3f3d54246dfa8d7ea96496d1f32~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "COLE & WHITNEY CONSTANCE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_6f7f3ee54a8b4d9cb1db98cf4b26cb89~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "COLTON AND SYDNEY",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_c92304aea0504ac1a7ce83c1dab41d23~mv2.jpg/v1/fill/w_81,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CORY & ASHLEY TAM",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_3cf6ec0cb94e44e1a12782f1cc532162~mv2.jpg/v1/fill/w_92,h_45,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "CURTIS & TRACY MELDER",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_e38936e549494f59b615ca4d56544127~mv2.jpg/v1/fill/w_91,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Carlin",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_b0e5a30af4d448b4a539988462fbfe3c~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Carlin Shop Home",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_38b453a2fa4f43c99bfec6f7d1008b15~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Claudette Couvillion",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_162c9d93051b43d6b0c1ada99b036ae5~mv2.jpg/v1/fill/w_84,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DANIEL & LORI RABALAIS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_9884bd4e4d5f4a11b30469aa3be5a4dd~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DANNY & DONELLE HAMILTON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_487d9c76b42647ab8d734cb526a1eacf~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DAVID & SHANNON JOHNSON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_25250dacb6bc49e8b3f06e39d22ee26e~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DAVID AND SHILOH RASCO",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_937cf22224c64923a992d05a5f92bbac~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DEAN & LINDA TYLER",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_3fd05f0566b14a03a5523b0b938a7741~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DEAN BATES",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_ff50f2bcfb0d443baab67865dfa0e25e~mv2.jpg/v1/fill/w_92,h_44,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DEREK & LAKIN FREDIEU",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_54c2906db0ce41faa8a05ba403b1fc08~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DERRICK AND ALYSSA RACHAL",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_dad80dfc77fd4fa3bf0d057e6a7320ef~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DERRICK AND SAMANTHA BAUM",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_b1a048c6a9224d2d98e0e8fadd48293f~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DEVIN & LOU",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_81def9cc3c8e45d0be03883905218aad~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DEVIN AND MANDY DICUS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_b60a5c5416d94035828c7ddd88a9c7b6~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DODGE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_31f95fabd19242529cf1cbd4ea4e3d61~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DOUG & DENISE CROSS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_19eb0d2d27894083b1b8316c5029f8f7~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "DUFFELL",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_7ca9d23c017648dfb31704df5d168b1f~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "EDWARDS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_68f2bcb9a4b44e29b04d9d6ed26d0df9~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "ERIC & ASHLEY VEULEMAN",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_601defa3edf54214866032b2c4d50b90~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "ERIC & LAUREN JOHNSON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_20e8880568d74c87897441cfc5ed9cb4~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "GERALD & SHELLY LACAZE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_da31c137b29e4d6696f6974fbee1a1e3~mv2.jpg/v1/fill/w_87,h_58,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "GUIRLANDO",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_7dbdbe08afda43eaae0a9d69a4b17a86~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "Greg & Wanda Hillman",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_0ba68a908f1b4c2f8d2886b2e162af69~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "HAILEY NICHOLS",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_5565064e82104f42b4d8c47259560934~mv2.jpg/v1/fill/w_92,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "HAMILTON",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_96ec21427846402aafc67262d92d02b2~mv2.jpg/v1/fill/w_92,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "HENRY & KAYLA BEEBE",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_639df3b05e1b4f1088b6ff3e46a245fe~mv2.jpg/v1/fill/w_92,h_57,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "HUNTER & MEGAN SOIELAU",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_f68aa2f93f9641f2b648d5d09f3cffd7~mv2.jpg/v1/fill/w_92,h_51,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "JAKE & CAITLYN WOODARD",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/8858a8_849d09b3b2fc4bd081438bcdda86ebdc~mv2.jpg/v1/fill/w_92,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Image-empty-state_edited.jpg",
+        "alt": "JAMES AND MAEGAN SCHOPPER",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "509",
+        "height": "324",
+        "loading": "lazy"
+      },
+      {
+        "sizes": "25px",
+        "srcset": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 1x, https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png 2x",
+        "id": "img_0_comp-lpsh2bwk6",
+        "src": "https://static.wixstatic.com/media/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_366f7fdbcafc4effaeddb0dba92014c1~mv2.png",
+        "alt": "Facebook",
+        "style": "object-fit:cover",
+        "class": "ZK9snE sFiSiq",
+        "width": "25",
+        "height": "25"
+      }
+    ]
+  },
+  "enhanced_assets": [
+    "home",
+    "kitchen",
+    "logo",
+    "portfolio-1",
+    "portfolio-2",
+    "portfolio-3",
+    "portfolio-4",
+    "portfolio-5",
+    "portfolio-6",
+    "portfolio-7",
+    "portfolio-8",
+    "portfolio-9",
+    "portfolio-10",
+    "portfolio-11",
+    "portfolio-12"
+  ],
+  "generation_method": "built-in image_gen",
+  "invariants": "Preserve building geometry, openings, roof form, porch and source materials. Only Home, Portfolio and Contact enhanced. Floor plan images are byte-for-byte originals.",
+  "prompt_set": {
+    "exteriors": "Re-render this exact home as a photorealistic professional architectural exterior photograph. Preserve all building geometry, roof form, dormers, porches, columns, window and door positions, garage, materials and colors. Change only rendering realism: natural material textures, credible reflections, contact shadows, softly varied grass and realistic Louisiana trees, refined low landscaping, soft natural afternoon lighting. No text, cars or people.",
+    "home": "Turn the exact raised cottage linework into a realistic exterior photo. Preserve three dormers, chimney, hip roof, wraparound porch and central steps. Pale gray siding, charcoal metal roof and natural Louisiana landscaping.",
+    "kitchen": "Reconstruct the original kitchen as a crisp high-resolution photograph, retaining cabinetry, rolling ladder, island, brass tap, floor, stools, range and pendant lights.",
+    "logo": "Forest-green CJ monogram, geometric thin architectural strokes, incomplete drafting-sheet border, fine dimension ticks and sparse partial floor-plan geometry. Transparent background. No additional text."
+  }
+}
