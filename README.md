@@ -11,6 +11,8 @@ A responsive, static example website with a forest green, green-gray, and light 
 - All 60 original floor-plan cards, specifications, and prices. The November 2 revision adds a dedicated 4:5 portrait re-render for every home; the original source files remain in assets. Cards are display-only. Search, bedroom/bathroom/size filters, reset, and progressive loading run locally.
 - A 104-pixel desktop logo, 22-pixel studio wordmark, 17-pixel desktop navigation, 18-pixel body copy, and larger plan numbers, prices, and specifications. Featured cards share matching top edges and caption baselines.
 - Responsive layouts for desktop, tablet, narrow folded devices, and wide unfolded devices; safe-area and viewport-segment spacing; reduced-motion support.
+- A white studio header with a darker, heavier logo and wordmark.
+- A muted 28-second hero MP4 with a gentle 9% zoom cycle, plus a continuous text ribbon. One pause button controls both; reduced-motion visitors see a still image without loading the video. Video pauses off-screen and while the tab is hidden.
 - Demo contact form validates locally and sends/stores nothing.
 
 ## Preview locally

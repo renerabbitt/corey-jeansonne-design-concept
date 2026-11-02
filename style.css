@@ -146,3 +146,35 @@ footer { background: #cadbc3; }
   .project-meta { flex-wrap:wrap; }
   .project-number { display:none; }
 }
+
+/* A crisp studio masthead and quiet, continuous motion. */
+.site-header { background:#fff; border-bottom-color:#d1ddd0; }
+.brand img {
+  filter:brightness(.55) contrast(1.65) drop-shadow(.35px 0 0 #173b2d) drop-shadow(0 .35px 0 #173b2d);
+}
+.brand > span { font-weight:700; color:var(--deep); }
+.brand small { font-weight:600; color:var(--forest); }
+.site-header nav { background:#fff; }
+.hero-video { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center 57%; }
+.hero-video[hidden] { display:none!important; }
+.hero-motion-control { position:absolute; z-index:2; right:24px; bottom:24px; display:inline-flex; align-items:center; gap:10px; padding:11px 16px; border:1px solid rgba(255,255,255,.6); background:rgba(23,59,45,.86); color:#fff; font-size:14px; backdrop-filter:blur(10px); }
+.hero-motion-control:hover { background:var(--deep); }
+.hero-motion-control:focus-visible { outline-color:white; }
+.motion-ribbon { margin-top:36px; padding:22px 0; border-block:1px solid var(--line); overflow:hidden; color:var(--forest); }
+.motion-ribbon-track { display:flex; width:max-content; animation:ribbonTravel 48s linear infinite; }
+.motion-ribbon-group { display:flex; align-items:center; flex-shrink:0; gap:42px; padding-right:42px; font:400 clamp(25px,3vw,42px)/1.25 Manrope,Arial,sans-serif; letter-spacing:-.035em; white-space:nowrap; }
+.motion-ribbon-group span { font-size:20px; color:#64815c; }
+.motion-ribbon.is-paused .motion-ribbon-track { animation-play-state:paused; }
+.motion-ribbon:hover .motion-ribbon-track { animation-play-state:paused; }
+@keyframes ribbonTravel { to { transform:translateX(-50%); } }
+@media(max-width:720px) {
+ .hero-motion-control { right:14px; bottom:14px; padding:9px 12px; font-size:12px; }
+ .hero .photo-badge { bottom:62px; }
+ .motion-ribbon { margin-top:26px; padding:18px 0; }
+ .motion-ribbon-group { gap:26px; padding-right:26px; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .hero-video { display:none; }
+ .hero-visual:hover > img { transform:none; }
+ .motion-ribbon-track { animation:none; }
+}
