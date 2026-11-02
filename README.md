@@ -12,7 +12,7 @@ A responsive, static example website with a forest green, green-gray, and light 
 - A 104-pixel desktop logo, 22-pixel studio wordmark, 17-pixel desktop navigation, 18-pixel body copy, and larger plan numbers, prices, and specifications. Featured cards share matching top edges and caption baselines.
 - Responsive layouts for desktop, tablet, narrow folded devices, and wide unfolded devices; safe-area and viewport-segment spacing; reduced-motion support.
 - A white studio header with a darker, heavier logo and wordmark.
-- A muted 28-second hero MP4 with a gentle 9% zoom cycle, plus a continuous text ribbon. One pause button controls both; reduced-motion visitors see a still image without loading the video. Video pauses off-screen and while the tab is hidden.
+- A muted 13-second cinematic hero MP4: a wide property establishing view, a quicker forward approach, then a dissolve into the original front elevation drawing, plus a continuous text ribbon. One pause button controls both; reduced-motion visitors see a still image without loading the video. Video pauses off-screen and while the tab is hidden.
 - Demo contact form validates locally and sends/stores nothing.
 
 ## Preview locally
